@@ -46,6 +46,8 @@ individual test suites can be executed as below
 
 4. For easy reference the execution is recorded and saved as `beamery_execution.gif` & `beamery_allure_report.gif`
 
+![beamery_execution](https://user-images.githubusercontent.com/32310710/91194653-42793280-e6f0-11ea-8b17-e8f08af1db85.gif)
+
 ## Test Report Generation
 
 Allure, a flexible lightweight multi-language test report tool is used for report generation, running the below script "post execution" will generate HTML report detailing test execution status/
@@ -53,6 +55,8 @@ Allure, a flexible lightweight multi-language test report tool is used for repor
     npm run test-allure
 
 Note: Please trigger this script after one execution completion, as allure requires result details to generate reporter.
+
+![beamery_allure_report](https://user-images.githubusercontent.com/32310710/91194433-0c3bb300-e6f0-11ea-84b4-ab1f3c41d40b.gif)
 
 ## Framework maintenance
 
