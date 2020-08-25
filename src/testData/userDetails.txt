@@ -1,0 +1,12 @@
+25/08/2020 14:57:41  frvfb@iezzs.com Password1! passed 
+25/08/2020 15:19:21  oetdc@brqmh.com undefined passed 
+25/08/2020 15:19:57  xnkor@giuyf.com a random string passed 
+25/08/2020 15:20:21  kssqc@ucguf.com password123 passed 
+25/08/2020 15:20:49  pxtrq@epjuy.com Password1! passed 
+25/08/2020 15:21:25  sbjjn@aklte.com password123 passed 
+25/08/2020 15:21:46  1111111 undefined passed 
+25/08/2020 15:31:11  oyvpd@xnxpv.com a random string failed 
+25/08/2020 15:31:22  undefined undefined failed 
+25/08/2020 15:37:28  qehmo@ybbdt.com a random string passed 
+25/08/2020 15:38:30  punua@nfbdl.com Password1! passed 
+25/08/2020 15:50:47  rzica@pdfmm.com a random string passed 

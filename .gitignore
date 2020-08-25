@@ -1,0 +1,7 @@
+node_modules
+allure-results
+allure-report
+build
+npm-debug.log
+.env
+.DS_Store
