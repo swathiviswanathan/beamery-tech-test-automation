@@ -143,6 +143,6 @@ When(/^I click on signout button$/, () => {
   AccOverview.signOut();
 });
 
-When(/^the home page of the e-commerce shopping site must be opened$/, () => {
+Then(/^the home page of the e-commerce shopping site must be opened$/, () => {
   Authentication.verifyAuthenticationPage();
 });

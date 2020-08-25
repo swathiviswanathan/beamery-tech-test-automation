@@ -109,6 +109,10 @@ class DriverHandler {
   @pauseExecution(pauseTime)
   verifyWebPageTitle(pageName, expectedTitle) {
     try {
+      browser.waitUntil(() => browser.getTitle().includes(expectedTitle), {
+        timeout: 8000,
+        timeoutMsg: "expected header text is not displayed until 5s",
+      });
       expect(browser).toHaveTitleContaining(expectedTitle);
     } catch (error) {
       throw new Error(

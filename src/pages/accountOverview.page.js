@@ -25,6 +25,7 @@ class AccOverview {
 
   signOut() {
     DriverHandler.verifyAndClick(this.signOutButton, "Sign Out Button");
+    browser.pause(2000);
   }
 }
 
